@@ -1,0 +1,3 @@
+Unnamed: 0,timestamp,TP2,TP3,H1,DV_pressure,Reservoirs,Oil_temperature,Motor_current,COMP,DV_eletric,Towers,MPG,LPS,Pressure_switch,Oil_level,Caudal_impulses,target,Alert
+8510690,31-05-2020 07:57,-0.012,9.85,9.838,-0.022,9.85,70.25,3.82,1,0,1,1,0,1,1,1,1,ALERT
+3759270,22-03-2020 19:58,-0.012,8.956,8.944,-0.022,8.956,59.2,0.04,1,0,1,1,0,1,1,1,1,ALERT
